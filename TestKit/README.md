@@ -7,3 +7,5 @@ Files to test and check sensors, functions, use cases
 -Bmp Sensor
 
 -Firebase
+
+-ADXL335 accelerometer sensor
