@@ -1,7 +1,8 @@
 ## Test Files
 Files to test and check sensors, functions, use cases
 
-# Kits
+# Sensors
+
 -DHT Sensor
 
 -Bmp Sensor
@@ -9,3 +10,9 @@ Files to test and check sensors, functions, use cases
 -Firebase
 
 -ADXL335 accelerometer sensor
+
+-IR
+
+# function
+
+-mills()
