@@ -13,6 +13,10 @@ Files to test and check sensors, functions, use cases
 
 -IR
 
+-Display 16x2
+
+-Servo Motor
+
 # function
 
 -mills()
