@@ -3,20 +3,26 @@ Files to test and check sensors, functions, use cases
 
 # Sensors
 
--DHT Sensor
+- DHT Sensor
 
--Bmp Sensor
+- Bmp Sensor
 
--Firebase
+- ADXL335 accelerometer sensor
 
--ADXL335 accelerometer sensor
+- IR
 
--IR
+- Display 16x2
 
--Display 16x2
-
--Servo Motor
+- Servo Motor
 
 # function
 
--mills()
+- mills()
+
+- firebase()
+
+  >database
+     
+  >multipath
+     
+  >listener
