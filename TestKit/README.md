@@ -15,6 +15,8 @@ Files to test and check sensors, functions, use cases
 
 - Servo Motor
 
+- HC-SR04 ultrasound sensor
+
 # function
 
 - mills()
