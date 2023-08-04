@@ -17,6 +17,8 @@ Files to test and check sensors, functions, use cases
 
 - HC-SR04 ultrasound sensor
 
+- ws2812 LED
+
 # function
 
 - mills()
