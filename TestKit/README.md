@@ -19,7 +19,9 @@ Files to test and check sensors, functions, use cases
 
 - ws2812 LED
 
-- LDR 
+- LDR
+
+- Relay
 
 # function
 
