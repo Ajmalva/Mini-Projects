@@ -8,7 +8,7 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   // Print a message to the LCD.
-  lcd.print(" Circuit Digest!");
+  lcd.print(" Hello World!");
   delay(2000);
   for (int positionCounter = 0; positionCounter < 16; positionCounter++) {
     // scroll one position right:
